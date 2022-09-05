@@ -33,14 +33,14 @@
 
 
 ## :round_pushpin: 담당 역할 소개
-### 공통 헤더 (사이드 메뉴바 제외) 및 이모티콘 검색 페이지 
+#### 공통 헤더 (사이드 메뉴바 제외) 및 이모티콘 검색 페이지 
 <img width="1000" alt="스크린샷 2022-09-05 오후 1 35 33" src="https://user-images.githubusercontent.com/101396474/188361253-544422b5-b04e-47df-abf9-9667a58eb386.png">
 <img width="1000" alt="스크린샷 2022-09-05 오후 1 36 41" src="https://user-images.githubusercontent.com/101396474/188361365-a268a825-553f-4973-8741-9c50413a0e69.png">
   
-### 인기 이모티콘 페이지 
+#### 인기 이모티콘 페이지 
 <img width="1000" alt="스크린샷 2022-09-05 오후 2 37 16" src="https://user-images.githubusercontent.com/101396474/188367905-f948d314-3116-4fee-a5c3-696052aba33b.png">
   
-### 이모티콘 등록 및 삭제 페이지 (관리자)
+#### 이모티콘 등록 및 삭제 페이지 (관리자)
 <img width="1000" alt="스크린샷 2022-09-05 오후 2 39 15" src="https://user-images.githubusercontent.com/101396474/188368170-2da4619b-f11b-4327-ab6d-ab789bf8d0f0.png">
 <img width="1000" alt="스크린샷 2022-09-05 오후 2 39 35" src="https://user-images.githubusercontent.com/101396474/188368204-7eb881a4-cdf8-4087-84a9-df10e4bb26e6.png">
 
