@@ -1,7 +1,7 @@
 #  💻 kakao_emoticon_web_clone
 
 
-## 목차
+## :round_pushpin: 목차
 > * [프로젝트 소개](#round_pushpin-프로젝트-소개)  
 > * [DB 모델링](#round_pushpin-db-모델링)  
 > * [코드 설계](#round_pushpin-코드-설계)  
