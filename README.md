@@ -1,4 +1,4 @@
-#  💻 kakao_emoticon_web_clone
+#  💻 Kakao-Emoticon web clone
 
 
 ## :round_pushpin: 목차
