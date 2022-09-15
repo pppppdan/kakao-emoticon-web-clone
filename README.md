@@ -12,7 +12,7 @@
     
   
 ## :round_pushpin: 프로젝트 소개  
-* JSP/Servelt을 이용한 카카오 이모티콘샵 웹페이지 클론 코딩 프로젝트입니다.
+* JSP/Servlet을 이용한 카카오 이모티콘샵 웹페이지 클론 코딩 프로젝트입니다.
 * 추가로 게시판 페이지와 이모티콘 추가/삭제할 수 있는 관리자 페이지를 구현했습니다.
 * 개발 기간 : 2022.06.27. ~ 2022.07.10. (2주)  
 * 참여 인원 : 6명  
@@ -23,7 +23,7 @@
   * 관리자 - 이모티콘 등록 및 삭제 페이지  
   * [PPT 제작](https://github.com/pppppdan/kakao-emoticon-web-clone/blob/main/%E1%84%8F%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%E1%84%89%E1%85%A3%E1%86%B8%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)  
 
-<img width="1000" alt="스크린샷 2022-09-05 오후 1 29 34" src="https://user-images.githubusercontent.com/101396474/188360651-db80f193-7816-426f-994f-72e19209e09e.png">
+<img width="1000" alt="스크린샷 2022-09-15 오전 9 27 58" src="https://user-images.githubusercontent.com/101396474/190285929-9ddf26c4-3ad9-4d97-af7b-08ac506542a0.png">
   
   
 ## :round_pushpin: DB 모델링
