@@ -23,7 +23,7 @@
   * 관리자 - 이모티콘 등록 및 삭제 페이지  
   * [PPT 제작](https://github.com/pppppdan/kakao-emoticon-web-clone/blob/main/%E1%84%8F%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%86%E1%85%A9%E1%84%90%E1%85%B5%E1%84%8F%E1%85%A9%E1%86%AB%E1%84%89%E1%85%A3%E1%86%B8%20%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD.pdf)  
 
-<img width="1000" alt="스크린샷 2022-09-15 오전 9 27 58" src="https://user-images.githubusercontent.com/101396474/190285929-9ddf26c4-3ad9-4d97-af7b-08ac506542a0.png">
+<img width="1000" alt="스크린샷 2022-09-22 오후 6 22 23" src="https://user-images.githubusercontent.com/101396474/191710011-e3e3c15a-bbc2-4f86-b777-44dfc06cbc0c.png">
   
   
 ## :round_pushpin: DB 모델링
